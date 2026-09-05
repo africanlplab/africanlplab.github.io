@@ -1,5 +1,5 @@
 ---
-title: "About the website"
+title: "AfricaNLP Lab"
 layout: textlay
 excerpt: "About the website."
 sitemap: false

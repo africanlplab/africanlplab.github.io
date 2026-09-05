@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Africa NLP Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Africa NLP Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
