@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "AfricaNLP Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "AfricaNLP Lab at Bayero University &rarr; BUK."
 sitemap: false
 permalink: /
 ---
