@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "AfricaNLP Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "AfricaNLP Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
